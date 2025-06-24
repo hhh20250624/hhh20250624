@@ -63,4 +63,4 @@ Telegram频道传送门：汇聚多类型Telegram频道，主题丰富、资源�
 
 《黑料大事记》系统追踪娱乐圈与网红圈重大事件，按时间线还原爆料与舆论全程，是了解网络热点演变的权威信息平台。
 
-[Canonical link](）
+[Canonical link](https://github.com/hhh20250624/hhh20250624）
